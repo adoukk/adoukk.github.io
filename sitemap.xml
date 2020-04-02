@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hell-zxy.cn/hexo-git-md/</loc>
+    <loc>https://hell-zxy.cn/hexo-coding-md/</loc>
     
-    <lastmod>2020-04-02T10:59:25.035Z</lastmod>
+    <lastmod>2020-04-02T16:32:29.506Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://hell-zxy.cn/hexo-blog-md/</loc>
     
-    <lastmod>2020-04-02T10:58:45.764Z</lastmod>
+    <lastmod>2020-04-02T16:29:45.371Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hell-zxy.cn/hexo-git-md/</loc>
+    
+    <lastmod>2020-04-02T16:29:38.757Z</lastmod>
     
   </url>
   
